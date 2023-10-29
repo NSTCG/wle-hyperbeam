@@ -1,0 +1,23 @@
+{
+	"name": "wle-hyperbeam.wlp",
+	"version": "1.0.0",
+	"description": "Hyperbeam integration with wonderland engine",
+	"main": "js/index.js",
+	"type": "module",
+	"module": "js/index.js",
+	"scripts": {
+		"build": "echo \"The 'build' script is run by the editor and should produce your application bundle\""
+	},
+	"keywords": [
+		"wonderland-engine"
+	],
+	"dependencies": {
+		"@hyperbeam/web": "^0.0.30",
+		"@wonderlandengine/api": "^1.1.2",
+		"@wonderlandengine/components": "^1.0.6",
+		"gl-matrix": "^3.4.3"
+	},
+	"license": "MIT",
+	"author": "Nithin Steven F",
+	"email": "nithinsteven32@gmail.com"
+}
