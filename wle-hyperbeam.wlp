@@ -1644,7 +1644,7 @@
                     "hyperbeam-component": {
                         "material": "257",
                         "marker": "258",
-                        "apiKey": "sk_test_ZAWwLZHWFKoykISW1miXdwgHHXd7ysMU1X2nfBB4-po",
+                        "apiKey": "",
                         "defualtTagValue": "hyperbeam",
                         "CursorHover": true
                     },
